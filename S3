@@ -1,0 +1,22 @@
+🚀 Master AWS Cloud Computing – AWS Zero to Hero Series: Amazon S3 Deep Dive
+Curious about Amazon S3 and how to truly master it? This hands-on learning journey is part of my AWS Zero to Hero series, where I cover everything you need to know to start using AWS Cloud Computing confidently.
+
+In this segment, I focus entirely on Amazon S3 (Simple Storage Service)—one of the most essential and powerful AWS services. Whether you're a cloud beginner or looking to sharpen your practical skills, this guide and video walkthrough will help you level up.
+
+🌐 What You'll Learn
+✅ Create and configure S3 Buckets
+✅ Host a Static Website using S3
+✅ Enable Versioning and Replication across regions
+✅ Choose the right Storage Class (Standard, IA, Glacier, etc.)
+✅ Implement Lifecycle Policies
+✅ Understand and use the S3 SNOW Family for edge data transfer
+✅ Explore AWS Storage Gateway integrations
+
+🧠 Who Is This For?
+Cloud Beginners exploring AWS S3 for the first time
+
+Developers looking to host frontend static websites
+
+DevOps / Cloud Engineers aiming to automate S3 workflows
+
+IT Professionals transitioning to the cloud
